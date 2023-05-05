@@ -1,0 +1,14 @@
+insert into books values('CS_XII','12345','Informatics','Sumita Arora','English');
+insert into books values('CS_XI','79865','Informatics','Sumita Arora','English');
+insert into books values('PYTHON COMPREHENSIVE','12380','Science', 'Igor Irodov', 'English');
+insert into books values('GODAAN', '23857', 'Fiction', 'PremChand', 'Hindi');
+insert into books values('STORY OF MY LIFE', '27598', 'Autobiography', 'Hellen Keller', 'English');
+insert into books values('THE TIME MACHINE', '28347', 'Sci-Fi', 'H.G.Wells', 'English');
+insert into books values('THE STRANGER', '28437', 'Fiction', 'Albert Camus', 'French');
+insert into books values('THE INVISIBLE MAN', '45842', 'Fiction', 'Ralph Ellison', 'English');
+insert into books values('WINGS OF FIRE', '55832', 'Autobiography', 'APJ Abdul Kalam', 'English');
+insert into books values('THE MYTH OF SISYPHUS', '75832', 'Fiction', 'Albert Camus', 'French');
+insert into books values('BASIC LAWS OF ELECTROMAGNETISM', '40632', 'Science', 'Igor Irodov', 'English');
+insert into books values('KAPHAN', '85632', 'Fiction', 'Premchand', 'Hindi');
+insert into books values('JUNETEENTH', '45432', 'Literature', 'Ralph Ellison', 'English');
+insert into books values('THE WORLD I LIVE IN', '67432', 'Biography', 'Hellen Keller', 'English');
